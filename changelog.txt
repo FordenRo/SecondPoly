@@ -1,6 +1,8 @@
 Changelog:
 
-v0.1.0:
+(Latest) v0.1.0:
+- Added debug UI
+- Added player cursor
 - Added player controller
 - Added test game scene
 - Added changelog sync

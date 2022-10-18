@@ -1,6 +1,6 @@
 Changelog:
 
-(Latest) v0.1.0:
+v0.1.0 (Latest):
 - Added debug UI
 - Added player cursor
 - Added player controller

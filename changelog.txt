@@ -1,6 +1,6 @@
 Changelog:
 
-v0.1.0-alpha:
+v0.1.0-alpha (Latest):
 - Added version label
 - Added changelog label
 - Added play button

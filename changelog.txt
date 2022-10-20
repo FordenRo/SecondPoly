@@ -1,9 +1,10 @@
 Changelog:
 
-v0.1.0 (Latest):
-- Added debug UI
-- Added player cursor
-- Added player controller
-- Added test game scene
-- Added changelog sync
-- Added main menu
+v0.1.0-alpha:
+- Added version label
+- Added changelog label
+- Added play button
+- Added options
+- Added avatar
+- Added menu scene
+- Created project

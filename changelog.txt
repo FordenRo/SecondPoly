@@ -1,6 +1,24 @@
 Changelog:
 
 
+v0.3.1-alpha (Future):
+- To add in-game chat
+- To add in-menu chat
+- To add chat system
+
+v0.3.0-alpha (Future):
+- To add body GUI
+- To add body damage system
+- To add multiplayer
+
+v0.2.0-alpha (Future):
+- To add pistol model
+- To add ranged weapon system
+- To add inventory system
+- To add normal game map
+- To add map system
+- To add map chooser
+
 v0.1.1-alpha (InDev):
 - To add icon chooser
 - To add FPS show toggle
@@ -10,6 +28,7 @@ v0.1.1-alpha (InDev):
 - To add settings window
 - To change menu colors
 
+(21.10.22)
 v0.1.0-alpha (Latest):
 - Added cursor
 - Added player physics

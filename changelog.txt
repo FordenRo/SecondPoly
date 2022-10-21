@@ -23,6 +23,11 @@ v0.2.0-alpha (Future):
 - To add map system
 - To add map chooser
 
+v0.1.2-alpha (InDev):
+- To add in-game pause menu
+- To add settings saver
+- To add sensivity setting
+
 (21.10.22)
 v0.1.1-alpha (Latest):
 - Added FPS counter

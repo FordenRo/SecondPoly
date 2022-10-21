@@ -23,14 +23,15 @@ v0.2.0-alpha (Future):
 - To add map system
 - To add map chooser
 
-v0.1.1-alpha (InDev):
-- To add icon chooser
-- To add FPS show toggle
-- To add MSAA switcher
-- To add fullscreen toggle
-- To add resolution switcher
-- To add settings window
-- To change menu colors
+(21.10.22)
+v0.1.1-alpha (Latest):
+- Added FPS counter
+- Added fullscreen toggle
+- Added resolution switcher
+- Added settings window
+- Changed changelog font size
+- Added image to options button
+- Changed menu colors
 
 (21.10.22)
 v0.1.0-alpha (Latest):

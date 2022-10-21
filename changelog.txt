@@ -11,6 +11,10 @@ v0.3.0-alpha (Future):
 - To add body damage system
 - To add multiplayer
 
+v0.2.1-alpha (Future):
+- To add quality settings
+- To add advanced settings
+
 v0.2.0-alpha (Future):
 - To add pistol model
 - To add ranged weapon system

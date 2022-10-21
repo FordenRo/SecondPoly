@@ -15,7 +15,7 @@ v0.2.1-alpha (Future):
 - To add quality settings
 - To add advanced settings
 
-v0.2.0-alpha (Future):
+v0.2.0-alpha (InDev):
 - To add pistol model
 - To add ranged weapon system
 - To add inventory system
@@ -23,13 +23,15 @@ v0.2.0-alpha (Future):
 - To add map system
 - To add map chooser
 
-v0.1.2-alpha (InDev):
-- To add in-game pause menu
-- To add settings saver
-- To add sensivity setting
+(22.10.22)
+v0.1.2-alpha (Latest):
+- Added in-game pause menu
+- Added settings saver
+- Added sensivity setting
+- Updated unity version
 
 (21.10.22)
-v0.1.1-alpha (Latest):
+v0.1.1-alpha:
 - Added FPS counter
 - Added fullscreen toggle
 - Added resolution switcher

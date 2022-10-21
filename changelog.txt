@@ -34,7 +34,7 @@ v0.1.1-alpha (Latest):
 - Changed menu colors
 
 (21.10.22)
-v0.1.0-alpha (Latest):
+v0.1.0-alpha:
 - Added cursor
 - Added player physics
 - Added player controller

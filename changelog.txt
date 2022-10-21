@@ -1,5 +1,14 @@
 Changelog:
 
+v0.1.1-alpha (InDev):
+- To add icon chooser
+- To add FPS show toggle
+- To add MSAA switcher
+- To add fullscreen toggle
+- To add resolution switcher
+- To add settings window
+- To change menu colors
+
 v0.1.0-alpha (Latest):
 - Added cursor
 - Added player physics

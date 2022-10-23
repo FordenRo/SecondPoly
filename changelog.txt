@@ -1,7 +1,15 @@
 Changelog:
 
 
-v0.2.1-alpha (InDev):
+v0.3.0-alpha (InDev):
+- Will be added bullet physics
+- Will be added fire system
+- Will be enhansed main menu
+- Will be added new weapon
+- Will be added new map
+
+(24.10.22)
+v0.2.1-alpha (Latest):
 - Now you can choose weapon
 - Added hand physics
 - Added Yakor2 icon
@@ -9,7 +17,7 @@ v0.2.1-alpha (InDev):
 - Enhansed choose map window
 
 (23.10.22)
-v0.2.0-alpha (Latest):
+v0.2.0-alpha:
 - Increased player speed
 - Added pistol Yakor2
 - Added inventory system

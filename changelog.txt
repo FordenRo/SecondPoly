@@ -1,6 +1,9 @@
 Changelog:
 
 
+v0.4.0-alpha (Future):
+- Will be added multiplayer
+
 v0.3.0-alpha (InDev):
 - Will be added bullet physics
 - Will be added fire system

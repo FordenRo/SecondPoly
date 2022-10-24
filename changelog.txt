@@ -4,9 +4,10 @@ Changelog:
 v0.3.0-alpha (InDev):
 - Will be added bullet physics
 - Will be added fire system
-- Will be enhansed main menu
 - Will be added new weapon
-- Will be added new map
+- Added Forestry map
+- Recreated menu scene
+- Added new character
 
 (24.10.22)
 v0.2.1-alpha (Latest):

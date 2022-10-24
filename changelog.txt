@@ -25,7 +25,7 @@ v0.3.0-alpha (Latest):
 
 (24.10.22)
 v0.2.1-alpha:
-- Now you can choose weapon
+- Now you can choose weapon to holding
 - Added hand physics
 - Added Yakor2 icon
 - Added description to maps

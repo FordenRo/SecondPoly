@@ -4,16 +4,27 @@ Changelog:
 v0.4.0-alpha (Future):
 - Will be added multiplayer
 
-v0.3.0-alpha (InDev):
+v0.3.1-alpha (InDev):
 - Will be added bullet physics
 - Will be added fire system
-- Will be added new weapon
+
+(25.10.22)
+v0.3.0-alpha (Latest):
+- Rewrited push physics
+- Added rifle Ranger
+- Added splash logo
+- Added max FPS setting
+- Added old version alert
+- Fixed push physics that was affected by FPS
+- Fixed sensitivity that was affected by FPS
+- Added quality setting
 - Added Forestry map
+- Added random animations for character in menu
 - Recreated menu scene
 - Added new character
 
 (24.10.22)
-v0.2.1-alpha (Latest):
+v0.2.1-alpha:
 - Now you can choose weapon
 - Added hand physics
 - Added Yakor2 icon
@@ -44,7 +55,7 @@ v0.1.2-alpha:
 v0.1.1-alpha:
 - Added FPS counter
 - Added fullscreen toggle
-- Added resolution switcher
+- Added resolution setting
 - Added settings window
 - Changed changelog font size
 - Added image to options button

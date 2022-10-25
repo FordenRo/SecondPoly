@@ -4,12 +4,23 @@ Changelog:
 v0.4.0-alpha (Future):
 - Will be added multiplayer
 
-v0.3.1-alpha (InDev):
-- Will be added bullet physics
-- Will be added fire system
+v0.3.2-alpha (InDev):
+- Will be added reloading system
+- Will be bullet counter
+- Will be added fire cooldown
+- Will be added materials for weapons
+
+(26.10.22)
+v0.3.1-alpha (Latest):
+- Added Ranger to a Forestry map
+- Added bullet hole decal
+- Cursor is attached to a weapon
+- Added physics to a bullet
+- Added fire system
+- Rewrited hand physics
 
 (25.10.22)
-v0.3.0-alpha (Latest):
+v0.3.0-alpha:
 - Rewrited push physics
 - Added rifle Ranger
 - Added splash logo

@@ -1,15 +1,6 @@
 Changelog:
 
 
-v0.4.0-alpha (Future):
-- Will be added multiplayer
-
-v0.3.2-alpha (InDev):
-- Will be added reloading system
-- Will be bullet counter
-- Will be added fire cooldown
-- Will be added materials for weapons
-
 (26.10.22)
 v0.3.1-alpha (Latest):
 - Added Ranger to a Forestry map

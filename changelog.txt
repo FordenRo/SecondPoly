@@ -1,8 +1,19 @@
 Changelog:
 
+(30.10.22)
+v0.4.0-alpha (Latest):
+- Increased bullet speed
+- Fixed bullet goes through the wall with small FPS
+- Replaced rifle Ranger by new rifle AK47
+- Added dummy to a Polygon map
+- Added body damage system
+- Rewrited fire system
+- Added weapon spread
+- Rewrited bullet physics
+- Created game launcher https://github.com/FordenRo/SPLauncher/releases
 
 (26.10.22)
-v0.3.1-alpha (Latest):
+v0.3.1-alpha:
 - Added Ranger to a Forestry map
 - Added bullet hole decal
 - Cursor is attached to a weapon

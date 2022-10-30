@@ -1,7 +1,12 @@
 Changelog:
 
 (30.10.22)
-v0.4.0-alpha (Latest):
+v0.4.1-alpha (Latest):
+- Fixed bug when Forestry isn't loading
+- Fixed character in main menu
+
+(30.10.22)
+v0.4.0-alpha:
 - Increased bullet speed
 - Fixed bullet goes through the wall with small FPS
 - Replaced rifle Ranger by new rifle AK47
